@@ -1,0 +1,20 @@
+{
+  "name": "fooddeliveryapp",
+  "version": "1.0.0",
+  "description": "food delivery app for learning react",
+  "keywords": [],
+  "homepage": "https://github.com/Sahil-RctNtv/Gaurmet#readme",
+  "bugs": {
+    "url": "https://github.com/Sahil-RctNtv/Gaurmet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil-RctNtv/Gaurmet.git"
+  },
+  "license": "ISC",
+  "author": "sahil sharma",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  }
+}
